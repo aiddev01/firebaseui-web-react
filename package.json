@@ -1,6 +1,6 @@
 {
   "name": "react-firebaseui-mfa",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "React wrapper for firebaseui with multi-factor auth: Javascript library for customizable UI on top of Firebase SDK",
   "files": [
     "FirebaseAuth.d.ts",
@@ -33,7 +33,7 @@
     "firebase": "^8.2.4"
   },
   "dependencies": {
-    "firebaseui": "https://github.com/gulabs/firebaseui-web.git"
+    "firebaseui": "https://github.com/gulabs/firebaseui-web.git#v5.0.11"
   },
   "devDependencies": {
     "@types/react": "^17.0.0",
